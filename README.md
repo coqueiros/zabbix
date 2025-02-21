@@ -1,6 +1,9 @@
 # Zabbix
 Full project Zabbix - Monitoring (Install, configure and Management)
 
+## Manual Zabbix - Link support
+https://www.zabbix.com/documentation/current/en/manual/introduction
+
 # Conteúdo ##
 O que você aprenderá
 - Installation and Configuration of Zabbix Server, Proxy and Agents on PC, Mac and Linux
